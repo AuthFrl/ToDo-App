@@ -1,8 +1,34 @@
-# React + Vite
+# ToDo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple ToDo app built with React.
 
-Currently, two official plugins are available:
+## Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project is a straightforward ToDo application developed using React. It allows users to add, mark as complete, and delete tasks.
+
+## Features
+
+- Add new tasks
+- Mark tasks as complete with checkboxes
+- Delete tasks
+
+## Getting Started
+
+To run this project locally, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/Authfrl/todo-app.git`
+2. Navigate to the project directory: `cd todo-app`
+3. Install dependencies: `npm install`
+4. Start the app: `npm start`
+
+## Contributing
+
+Contributions are welcome! Feel free to open issues or submit pull requests.
+
+## Author
+
+- **Authfrl** ([GitHub](https://github.com/Authfrl), [Twitter](https://twitter.com/authtbh), [Instagram](https://instagram.com/auth.dev))
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
