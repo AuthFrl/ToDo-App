@@ -19,7 +19,7 @@ To run this project locally, follow these steps:
 1. Clone the repository: `git clone https://github.com/Authfrl/todo-app.git`
 2. Navigate to the project directory: `cd todo-app`
 3. Install dependencies: `npm install`
-4. Start the app: `npm start`
+4. Start the app: `npm run dev`
 
 ## Contributing
 
