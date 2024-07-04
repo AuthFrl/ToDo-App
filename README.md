@@ -23,7 +23,7 @@ To run this project locally, follow these steps:
 
 ## Contributing
 
-Contributions are welcome! Feel free to open issues or submit pull requests. Thank You.
+Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ## Author
 
