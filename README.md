@@ -23,11 +23,12 @@ To run this project locally, follow these steps:
 
 ## Contributing
 
-Contributions are welcome! Feel free to open issues or submit pull requests.
+Contributions are welcome! Feel free to open issues or submit pull requests. Thank You.
 
 ## Author
 
 - **Authfrl** ([GitHub](https://github.com/Authfrl), [Twitter](https://twitter.com/authtbh), [Instagram](https://instagram.com/auth.dev))
+
 
 ## License
 
